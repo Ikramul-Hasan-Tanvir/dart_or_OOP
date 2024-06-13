@@ -56,4 +56,4 @@ void massage (){
   print('what do you work?');
   print('where do you work?');
   print('where do you live?');
-}
+}//main methods
